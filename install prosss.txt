@@ -16,3 +16,4 @@
 14/helmet 	 ="= npm i helmet
 15/hpp 		="= npm i hpp
 16/xss-clean  ="= npm i xss-clean
+17/nodemon  ="= npm i nodemon

@@ -1,8 +1,4 @@
-let express = require('express');
-
-let app = express();
-
-
+const app = require('./app')
 
 
 app.listen(8000,function () {
